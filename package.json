@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node webp.js"
+    "convert": "node convert-app.js"
   },
   "keywords": [],
   "author": "",
