@@ -1,7 +1,7 @@
 @ECHO OFF
 TITLE Convert script
 
-cd C:\Users\zliobaju\Desktop\webp-tool
+cd %~dp0
 CALL npm run convert
 
 ECHO.
