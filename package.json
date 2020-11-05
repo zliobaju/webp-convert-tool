@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node convert-app.js"
+    "convert": "node convert-app.js",
+    "convert-mode-2": "node convert-app-mode-2.js"
   },
   "keywords": [],
   "author": "",
