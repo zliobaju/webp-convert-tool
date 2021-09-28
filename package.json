@@ -4,17 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node convert-app.js",
-    "convert-mode-2": "node convert-app-mode-2.js"
+    "convert": "node convert-app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.1",
-    "imagemin": "^7.0.1",
+    "chalk": "^4.1.2",
+    "imagemin": "^8.0.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^6.0.0"
-  }
+  },
+  "type": "module"
 }
