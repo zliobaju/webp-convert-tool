@@ -1,9 +1,11 @@
 # webp-convert-tool
 Tool to convert all JPG and PNG automatically
 
-## Requirements
-needs 'sourceFolder' in root directory
+## Install Requirements
+needs 'sourceFolder' in root directory.
+
+To install run ```yarn```
 
 ## Usage
-just run "RUN.cmd" for quick auto convert
-... or use "npm run convert"
+Put images in 'sourceFolder' Folder
+and run "RUN-Converter.cmd" for quick auto convert (or use ```yarn convert```)

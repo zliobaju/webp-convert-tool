@@ -1,10 +1,11 @@
 {
   "name": "webp-tool",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node convert-app.js"
+    "convert": "node convert-app.js",
+    "update": "yarn upgrade-interactive"
   },
   "keywords": [],
   "author": "",
@@ -12,9 +13,9 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "imagemin": "^8.0.1",
-    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
     "imagemin-pngquant": "^9.0.2",
-    "imagemin-webp": "^6.0.0"
+    "imagemin-webp": "^7.0.0"
   },
   "type": "module",
   "packageManager": "yarn@3.2.0"
