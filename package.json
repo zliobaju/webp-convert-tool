@@ -16,5 +16,6 @@
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^6.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "packageManager": "yarn@3.2.0"
 }
