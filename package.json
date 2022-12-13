@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node convert-app.js",
-    "update": "yarn upgrade-interactive"
+    "convert": "node convert-app.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +16,5 @@
     "imagemin-pngquant": "^9.0.2",
     "imagemin-webp": "^7.0.0"
   },
-  "type": "module",
-  "packageManager": "yarn@3.2.0"
+  "type": "module"
 }

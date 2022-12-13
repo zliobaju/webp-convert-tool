@@ -1,7 +1,7 @@
 @ECHO OFF
 TITLE Convert script
 cd %~dp0
-CALL yarn convert
+CALL npm run convert
 ECHO.
 ECHO done!
 ECHO.
